@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --latar-utama: #faf8f5;
+    --latar-kartu: #ffffff;
+    --latar-sekunder: #f4efea;
+    --latar-sorot: #eae4dc;
+    --pembatas: #e5ddd3;
+    --pembatas-kuat: #c9bfb2;
+    --teks-utama: #221c18;
+    --teks-sekunder: #5c5249;
+    --teks-tersier: #8c8075;
+    --aksen-primer: #0284c7;
+    --aksen-primer-hover: #0369a1;
+    --aksen-primer-lembut: #e0f2fe;
+    --aksen-hangat: #d97706;
+    --aksen-hangat-lembut: #fef3c7;
+    --status-sukses: #15803d;
+    --status-sukses-lembut: #dcfce7;
+    --status-peringatan: #b45309;
+    --status-peringatan-lembut: #fef3c7;
+    --status-bahaya: #b91c1c;
+    --status-bahaya-lembut: #fee2e2;
+    --bayangan-kartu:
+      0 1px 3px 0 rgba(34, 28, 24, 0.05), 0 1px 2px -1px rgba(34, 28, 24, 0.05);
+  }
+
+  html.dark {
+    --latar-utama: #141210;
+    --latar-kartu: #1c1917;
+    --latar-sekunder: #25201c;
+    --latar-sorot: #2e2824;
+    --pembatas: #352e28;
+    --pembatas-kuat: #4b423a;
+    --teks-utama: #faf6f0;
+    --teks-sekunder: #c8beb4;
+    --teks-tersier: #8e8377;
+    --aksen-primer: #38bdf8;
+    --aksen-primer-hover: #7dd3fc;
+    --aksen-primer-lembut: #0c4a6e;
+    --aksen-hangat: #f59e0b;
+    --aksen-hangat-lembut: #451a03;
+    --status-sukses: #4ade80;
+    --status-sukses-lembut: #052e16;
+    --status-peringatan: #fbbf24;
+    --status-peringatan-lembut: #451a03;
+    --status-bahaya: #f87171;
+    --status-bahaya-lembut: #450a0a;
+    --bayangan-kartu: 0 1px 3px 0 rgba(0, 0, 0, 0.4);
+  }
+
+  * {
+    border-color: var(--pembatas);
+  }
+
+  body {
+    background-color: var(--latar-utama);
+    color: var(--teks-utama);
+    font-family:
+      "Plus Jakarta Sans",
+      system-ui,
+      -apple-system,
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+}
+
+/* Tipografi kustom */
+.font-judul {
+  font-family: "Newsreader", Georgia, serif;
+}
+
+.font-kode {
+  font-family: "JetBrains Mono", monospace;
+}
+
+/* Batas lebar baca ideal untuk kenyamanan membaca */
+.panjang-baca {
+  max-width: 72ch;
+}
+
+/* Transisi halus preferensi sistem */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Styling scrollbar ramah visual */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--latar-sekunder);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--pembatas-kuat);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--teks-tersier);
+}
