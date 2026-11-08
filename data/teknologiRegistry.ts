@@ -109,6 +109,15 @@ export const daftarTeknologi: ItemTeknologi[] = [
               "Membangun antarmuka pengumpulan data yang valid dan ramah pengguna.",
             estimasiMenit: 18,
           },
+          {
+            judul: "Komponen Dialog dan Interaktivitas Modern",
+            slug: "dialog-dan-komponen-interaktif",
+            deskripsi:
+              "Penerapan dialog modal asli, popover API, template, dan slot web components.",
+            ringkasan:
+              "Interaksi tingkat lanjut menggunakan kemampuan murni elemen HTML5.",
+            estimasiMenit: 16,
+          },
         ],
       },
       {
@@ -131,6 +140,15 @@ export const daftarTeknologi: ItemTeknologi[] = [
             ringkasan:
               "Memastikan website dapat diakses oleh semua pengguna tanpa hambatan.",
             estimasiMenit: 15,
+          },
+          {
+            judul: "Meta Tag, SEO Modern, dan Keamanan Dokumen",
+            slug: "meta-tag-dan-seo-modern",
+            deskripsi:
+              "Open Graph, Twitter Cards, canonical link, optimasi crawler, dan header keamanan.",
+            ringkasan:
+              "Standar konfigurasi head untuk kesiapan produksi dan mesin pencari.",
+            estimasiMenit: 14,
           },
         ],
       },
@@ -194,6 +212,15 @@ export const daftarTeknologi: ItemTeknologi[] = [
               "Membangun grid responsif berkekuatan penuh tanpa framework tambahan.",
             estimasiMenit: 18,
           },
+          {
+            judul: "Posisi Elemen dan Stacking Context",
+            slug: "posisi-dan-stacking-context",
+            deskripsi:
+              "Position static, relative, absolute, fixed, sticky, dan manajemen z-index.",
+            ringkasan:
+              "Mengatur koordinat tumpukan elemen secara akurat tanpa kekacauan visual.",
+            estimasiMenit: 16,
+          },
         ],
       },
       {
@@ -215,6 +242,24 @@ export const daftarTeknologi: ItemTeknologi[] = [
             ringkasan:
               "Memanfaatkan kemampuan CSS modern tanpa memerlukan preprosesor rumit.",
             estimasiMenit: 15,
+          },
+          {
+            judul: "Transisi, Transformasi, dan Animasi CSS",
+            slug: "transisi-transformasi-dan-animasi",
+            deskripsi:
+              "Animasi keyframes, transisi halus, transform 2D/3D, dan optimasi performa gpu.",
+            ringkasan:
+              "Menghadirkan gerak antarmuka yang elegan dengan efisiensi rendering tinggi.",
+            estimasiMenit: 16,
+          },
+          {
+            judul: "Pseudo-class dan Pseudo-element Lengkap",
+            slug: "pseudo-class-dan-pseudo-element",
+            deskripsi:
+              "Selektor status :hover, :focus-visible, :nth-child, dan elemen tiruan ::before/::after.",
+            ringkasan:
+              "Menargetkan keadaan dinamis elemen dan mempercantik tipografi tanpa tag tambahan.",
+            estimasiMenit: 16,
           },
         ],
       },
@@ -285,6 +330,24 @@ export const daftarTeknologi: ItemTeknologi[] = [
               "Menyusun model data yang terstruktur dan mudah diakses.",
             estimasiMenit: 16,
           },
+          {
+            judul: "Pemrograman Berorientasi Objek dan Prototype",
+            slug: "oop-class-dan-prototype",
+            deskripsi:
+              "Class ES6, constructor, pewarisan extends, field privat, dan rantai prototype.",
+            ringkasan:
+              "Membangun arsitektur perangkat lunak berbasis objek yang kokoh dan terstruktur.",
+            estimasiMenit: 20,
+          },
+          {
+            judul: "Modul ES, Iterator, dan Generator",
+            slug: "modul-iterator-dan-generator",
+            deskripsi:
+              "Pemisahan kode dengan import/export, protokol iterasi, dan fungsi generator yield.",
+            ringkasan:
+              "Arsitektur modular tingkat perusahaan dan pemrosesan aliran data bertahap.",
+            estimasiMenit: 16,
+          },
         ],
       },
       {
@@ -307,6 +370,24 @@ export const daftarTeknologi: ItemTeknologi[] = [
             ringkasan:
               "Menghidupkan halaman web melalui interaksi responsif terhadap aksi user.",
             estimasiMenit: 20,
+          },
+          {
+            judul: "Penanganan Error, Regular Expression, dan Date",
+            slug: "penanganan-error-dan-regex",
+            deskripsi:
+              "Try-catch-finally, custom Error, pola regex, parsing tanggal, dan validasi data.",
+            ringkasan:
+              "Membangun kode yang tangguh terhadap kesalahan dan memvalidasi string kompleks.",
+            estimasiMenit: 18,
+          },
+          {
+            judul: "Web Storage dan Modern Browser APIs",
+            slug: "web-storage-dan-api-browser",
+            deskripsi:
+              "LocalStorage, sessionStorage, timer, History API, dan IntersectionObserver.",
+            ringkasan:
+              "Memanfaatkan kemampuan tingkat lanjut peramban untuk performa dan persistensi.",
+            estimasiMenit: 18,
           },
         ],
       },

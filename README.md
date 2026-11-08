@@ -73,6 +73,50 @@ Palet warna KopiKode diselaraskan dengan logo resmi dan mengusung nuansa kopi ha
 
 ---
 
+## Kurikulum Lengkap Fase 1 (29 Materi Lengkap)
+
+Platform ini telah menyediakan kurikulum lengkap siap pakai dengan standar industri:
+
+### 1. HTML5 (9 Materi)
+
+1. **Pengantar dan Struktur Dokumen**: Doctype, elemen html, head, meta, dan body.
+2. **Teks dan Konten Dasar**: Heading, paragraf, list, link, kutipan, dan entitas karakter.
+3. **Elemen Semantik Modern**: Header, nav, main, section, article, aside, time, dan footer.
+4. **Tabel Data Terstruktur**: Table, thead, tbody, th, tr, td, dan caption semantik.
+5. **Formulir dan Tipe Input**: Input text, email, number, date, select, textarea, dan validasi constraint bawaan.
+6. **Komponen Dialog dan Interaktivitas Modern**: Dialog modal asli, Popover API, template, dan slot.
+7. **Media Gambar, Audio, dan Video**: Img responsif (srcset/sizes), picture art direction, video, audio, dan track subtitle.
+8. **Aksesibilitas dan Atribut Global**: Peran ARIA, landmark, urutan fokus tabindex, dan data-* attributes.
+9. **Meta Tag, SEO Modern, dan Keamanan Dokumen**: Open Graph, Twitter Cards, canonical URL, dan CSP security headers.
+
+### 2. CSS3 & CSS Modern (9 Materi)
+
+1. **Selector, Specificity, dan Cascade**: Bobot spesifisitas, inheritance, dan hierarki cascade.
+2. **Box Model dan Dimensi**: Margin, border, padding, content-box vs border-box, dan margin collapsing.
+3. **Flexbox Layout**: Main axis, cross axis, justify-content, align-items, flex-grow, shrink, dan basis.
+4. **CSS Grid Layout**: Grid-template-columns, fr unit, repeat, minmax, auto-fit/fill, dan grid-area.
+5. **Posisi Elemen dan Stacking Context**: Static, relative, absolute, fixed, sticky, z-index, dan stacking context isolation.
+6. **Desain Responsif dan Media Query**: Breakpoint mobile-first, clamp(), min(), max(), dan viewport units.
+7. **CSS Variables dan Selektor Modern**: Custom properties (:root), :has(), :is(), :where(), dan CSS nesting native.
+8. **Transisi, Transformasi, dan Animasi CSS**: Transition timing, transform 2D/3D, keyframes, hardware acceleration GPU, dan prefers-reduced-motion.
+9. **Pseudo-class dan Pseudo-element Lengkap**: State (:hover, :focus-visible, :active), tree-structural (:nth-child), dan visual decoration (::before, ::after, ::marker).
+
+### 3. JavaScript Modern ES2024+ (11 Materi)
+
+1. **Variabel, Tipe Data, dan Operator**: Let, const, tipe primitif, konversi eksplisit/implisit, dan operator logika modern.
+2. **Percabangan dan Perulangan**: If-else, switch case, ternari, for, while, for...of, dan for...in.
+3. **Fungsi, Lingkup Variabel, dan Closure**: Deklarasi vs ekspresi, arrow function, lexical scope, closure, dan IIFE.
+4. **Array dan Metode Manipulasi**: Map, filter, reduce, find, some, every, flatMap, dan mutasi vs immutability.
+5. **Objek dan Struktur Data Kompleks**: Object literal, destructuring, spread/rest, Map, Set, WeakMap, dan properti dinamis.
+6. **Pemrograman Berorientasi Objek, Class, dan Prototype**: Prototype chain, class ES6, constructor, inheritance extends/super, private fields (#), dan static methods.
+7. **Modul ES, Iterator, dan Generator**: Import, export named/default, dynamic import(), Symbol.iterator, dan generator function (yield).
+8. **Asinkron: Promise dan Async/Await**: Event loop, call stack, microtask queue, Promise lifecycle, async/await, dan Fetch API.
+9. **Manipulasi DOM dan Event Handling**: QuerySelector, createElement, appendChild, classList, event listener, bubbling, capturing, dan delegation.
+10. **Penanganan Error, Regular Expression, dan Date**: Try-catch-finally, custom Error class, regex pattern syntax, Intl date formatter, dan validasi string.
+11. **Web Storage dan Modern Browser APIs**: LocalStorage, sessionStorage, JSON serializer, History API, Timer, dan IntersectionObserver.
+
+---
+
 ## Prasyarat dan Cara Menjalankan
 
 ### 1. Prasyarat Lingkungan
