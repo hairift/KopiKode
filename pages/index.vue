@@ -144,7 +144,7 @@ const bukaPencarian = () => {
               <span
                 class="text-xs font-semibold px-2.5 py-1 rounded-full bg-[var(--latar-sekunder)] text-[var(--teks-sekunder)]"
               >
-                9 Materi Lengkap
+                10 Materi Lengkap
               </span>
             </div>
 
@@ -154,8 +154,8 @@ const bukaPencarian = () => {
               </h3>
               <p class="text-sm text-[var(--teks-sekunder)] leading-relaxed">
                 Struktur dokumen, elemen semantik (header, nav, main, article),
-                formulir modern, tabel data, media responsif, dan standar
-                aksesibilitas ARIA.
+                formulir modern, tabel data, media responsif, standar
+                aksesibilitas ARIA, dan studi kasus halaman login.
               </p>
             </div>
           </div>
@@ -185,7 +185,7 @@ const bukaPencarian = () => {
               <span
                 class="text-xs font-semibold px-2.5 py-1 rounded-full bg-[var(--latar-sekunder)] text-[var(--teks-sekunder)]"
               >
-                9 Materi Lengkap
+                10 Materi Lengkap
               </span>
             </div>
 
@@ -195,8 +195,8 @@ const bukaPencarian = () => {
               </h3>
               <p class="text-sm text-[var(--teks-sekunder)] leading-relaxed">
                 Cascade, specificity, box model, tata letak modern Flexbox dan
-                CSS Grid, responsif dengan media query dan clamp, hingga custom
-                properties CSS variables.
+                CSS Grid, responsif dengan media query dan clamp, custom
+                properties, serta studi kasus komponen antarmuka modern.
               </p>
             </div>
           </div>
@@ -226,7 +226,7 @@ const bukaPencarian = () => {
               <span
                 class="text-xs font-semibold px-2.5 py-1 rounded-full bg-[var(--latar-sekunder)] text-[var(--teks-sekunder)]"
               >
-                11 Materi Lengkap
+                12 Materi Lengkap
               </span>
             </div>
 
@@ -237,7 +237,7 @@ const bukaPencarian = () => {
               <p class="text-sm text-[var(--teks-sekunder)] leading-relaxed">
                 Variabel, logika alur percabangan, fungsi dan closure,
                 manipulasi array dan objek, pola asinkron Promise dan Fetch API,
-                serta manipulasi DOM browser.
+                manipulasi DOM, serta studi kasus aplikasi pengelola data.
               </p>
             </div>
           </div>

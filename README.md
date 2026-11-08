@@ -73,11 +73,11 @@ Palet warna KopiKode diselaraskan dengan logo resmi dan mengusung nuansa kopi ha
 
 ---
 
-## Kurikulum Lengkap Fase 1 (29 Materi Lengkap)
+## Kurikulum Lengkap Fase 1 (32 Materi Lengkap)
 
-Platform ini telah menyediakan kurikulum lengkap siap pakai dengan standar industri:
+Platform ini telah menyediakan kurikulum lengkap siap pakai dengan standar industri, dari tingkatan dasar, menengah, hingga tingkat lanjut dan studi kasus nyata:
 
-### 1. HTML5 (9 Materi)
+### 1. HTML5 (10 Materi)
 
 1. **Pengantar dan Struktur Dokumen**: Doctype, elemen html, head, meta, dan body.
 2. **Teks dan Konten Dasar**: Heading, paragraf, list, link, kutipan, dan entitas karakter.
@@ -88,8 +88,9 @@ Platform ini telah menyediakan kurikulum lengkap siap pakai dengan standar indus
 7. **Media Gambar, Audio, dan Video**: Img responsif (srcset/sizes), picture art direction, video, audio, dan track subtitle.
 8. **Aksesibilitas dan Atribut Global**: Peran ARIA, landmark, urutan fokus tabindex, dan data-* attributes.
 9. **Meta Tag, SEO Modern, dan Keamanan Dokumen**: Open Graph, Twitter Cards, canonical URL, dan CSP security headers.
+10. **Studi Kasus: Formulir Login dan Registrasi Aksesibel**: Autentikasi lengkap, password manager autofill, intip kata sandi, dan kepatuhan WCAG AA.
 
-### 2. CSS3 & CSS Modern (9 Materi)
+### 2. CSS3 & CSS Modern (10 Materi)
 
 1. **Selector, Specificity, dan Cascade**: Bobot spesifisitas, inheritance, dan hierarki cascade.
 2. **Box Model dan Dimensi**: Margin, border, padding, content-box vs border-box, dan margin collapsing.
@@ -100,8 +101,9 @@ Platform ini telah menyediakan kurikulum lengkap siap pakai dengan standar indus
 7. **CSS Variables dan Selektor Modern**: Custom properties (:root), :has(), :is(), :where(), dan CSS nesting native.
 8. **Transisi, Transformasi, dan Animasi CSS**: Transition timing, transform 2D/3D, keyframes, hardware acceleration GPU, dan prefers-reduced-motion.
 9. **Pseudo-class dan Pseudo-element Lengkap**: State (:hover, :focus-visible, :active), tree-structural (:nth-child), dan visual decoration (::before, ::after, ::marker).
+10. **Studi Kasus: Komponen UI dan Tata Letak Responsif**: Sticky navbar, hero fluid typography, auto-fit card grid, dan kartu interaktif.
 
-### 3. JavaScript Modern ES2024+ (11 Materi)
+### 3. JavaScript Modern ES2024+ (12 Materi)
 
 1. **Variabel, Tipe Data, dan Operator**: Let, const, tipe primitif, konversi eksplisit/implisit, dan operator logika modern.
 2. **Percabangan dan Perulangan**: If-else, switch case, ternari, for, while, for...of, dan for...in.
@@ -114,6 +116,7 @@ Platform ini telah menyediakan kurikulum lengkap siap pakai dengan standar indus
 9. **Manipulasi DOM dan Event Handling**: QuerySelector, createElement, appendChild, classList, event listener, bubbling, capturing, dan delegation.
 10. **Penanganan Error, Regular Expression, dan Date**: Try-catch-finally, custom Error class, regex pattern syntax, Intl date formatter, dan validasi string.
 11. **Web Storage dan Modern Browser APIs**: LocalStorage, sessionStorage, JSON serializer, History API, Timer, dan IntersectionObserver.
+12. **Studi Kasus: Aplikasi Pengelola Data Interaktif**: Pola arsitektur state terpusat, event delegation, filter kategori, dan persistensi LocalStorage.
 
 ---
 

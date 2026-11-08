@@ -152,6 +152,20 @@ export const daftarTeknologi: ItemTeknologi[] = [
           },
         ],
       },
+      {
+        namaKategori: "Studi Kasus dan Proyek Nyata",
+        daftarMateri: [
+          {
+            judul: "Studi Kasus: Formulir Login dan Registrasi Aksesibel",
+            slug: "studi-kasus-halaman-login",
+            deskripsi:
+              "Membangun antarmuka autentikasi lengkap dengan semantik HTML5, pengelolaan autofill, dan WCAG AA.",
+            ringkasan:
+              "Pola standar industri merancang form login yang aman, nyaman di ponsel, dan aksesibel.",
+            estimasiMenit: 20,
+          },
+        ],
+      },
     ],
   },
   {
@@ -260,6 +274,20 @@ export const daftarTeknologi: ItemTeknologi[] = [
             ringkasan:
               "Menargetkan keadaan dinamis elemen dan mempercantik tipografi tanpa tag tambahan.",
             estimasiMenit: 16,
+          },
+        ],
+      },
+      {
+        namaKategori: "Studi Kasus dan Proyek Nyata",
+        daftarMateri: [
+          {
+            judul: "Studi Kasus: Komponen UI dan Tata Letak Responsif",
+            slug: "studi-kasus-antarmuka-web-modern",
+            deskripsi:
+              "Mengorkestrasi Flexbox, CSS Grid, Custom Properties, dan media queries untuk halaman web modern.",
+            ringkasan:
+              "Praktik nyata memadukan berbagai teknik tata letak menjadi antarmuka halaman yang utuh.",
+            estimasiMenit: 22,
           },
         ],
       },
@@ -388,6 +416,20 @@ export const daftarTeknologi: ItemTeknologi[] = [
             ringkasan:
               "Memanfaatkan kemampuan tingkat lanjut peramban untuk performa dan persistensi.",
             estimasiMenit: 18,
+          },
+        ],
+      },
+      {
+        namaKategori: "Studi Kasus dan Proyek Nyata",
+        daftarMateri: [
+          {
+            judul: "Studi Kasus: Aplikasi Pengelola Data Interaktif",
+            slug: "studi-kasus-aplikasi-web-interaktif",
+            deskripsi:
+              "Membangun aplikasi manajemen data lengkap dengan state terpusat, event delegation, dan LocalStorage.",
+            ringkasan:
+              "Menyatukan seluruh konsep JavaScript modern menjadi satu aplikasi fungsional yang utuh.",
+            estimasiMenit: 25,
           },
         ],
       },
